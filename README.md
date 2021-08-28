@@ -1,4 +1,4 @@
-## Toast Client
+## Toast Client1
 [![Discord](https://img.shields.io/discord/668416925671489547)](https://discord.gg/PASHZanfyc)
 ![GitHub lines of code](https://tokei.rs/b1/github/RemainingToast/toastclient)
 ![GitHub last commit](https://img.shields.io/github/last-commit/RemainingToast/toastclient)
